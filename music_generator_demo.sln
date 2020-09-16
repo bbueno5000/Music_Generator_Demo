@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "music_generator_demo", "music_generator_demo\music_generator_demo.pyproj", "{63680894-295A-4038-80E2-D94CD6E16B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63680894-295A-4038-80E2-D94CD6E16B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63680894-295A-4038-80E2-D94CD6E16B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E6FF7E4-F7BE-4CE0-809E-50B7D2B3A5F7}
+	EndGlobalSection
+EndGlobal
