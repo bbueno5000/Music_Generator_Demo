@@ -29,3 +29,6 @@ The challenge for this video is to create a happy/upbeat MIDI file using this sc
 ##Credits
 
 The credit for this code goes to [dshieble](https://github.com/dshieble) i've merely created a wrapper around his code to make it easier to get started. 
+
+* chinabluewu@github
+* https://github.com/hexahedria/biaxial-rnn-music-composition
